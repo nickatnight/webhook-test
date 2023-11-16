@@ -1,0 +1,14 @@
+{
+  "name": "webhook-test",
+  "version": "1.0.0",
+  "description": "test test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickatnight/webhook-test.git"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
