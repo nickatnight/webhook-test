@@ -1,5 +1,5 @@
 {
-  "name": "webhook-test",
+  "name": "@nickatnight/webhook-test",
   "version": "1.0.0",
   "description": "test test",
   "main": "index.js",
